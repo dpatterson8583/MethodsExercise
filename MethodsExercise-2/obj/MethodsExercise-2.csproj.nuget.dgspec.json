@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {}
+    "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise-2\\MethodsExercise-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {
+    "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise-2\\MethodsExercise-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-        "projectName": "MethodsExercise",
-        "projectPath": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise-2\\MethodsExercise-2.csproj",
+        "projectName": "MethodsExercise-2",
+        "projectPath": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise-2\\MethodsExercise-2.csproj",
         "packagesPath": "C:\\Users\\dpatt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise\\obj\\",
+        "outputPath": "C:\\Users\\dpatt\\Documents\\GitHub\\MethodsExercise\\MethodsExercise-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

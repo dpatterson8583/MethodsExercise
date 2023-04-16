@@ -1,0 +1,15 @@
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\bin\Debug\net6.0\MethodsExercise-2.exe
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\bin\Debug\net6.0\MethodsExercise-2.deps.json
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\bin\Debug\net6.0\MethodsExercise-2.runtimeconfig.json
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\bin\Debug\net6.0\MethodsExercise-2.dll
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\bin\Debug\net6.0\MethodsExercise-2.pdb
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.csproj.AssemblyReference.cache
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.AssemblyInfoInputs.cache
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.AssemblyInfo.cs
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.csproj.CoreCompileInputs.cache
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.dll
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\refint\MethodsExercise-2.dll
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.pdb
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\MethodsExercise-2.genruntimeconfig.cache
+C:\Users\dpatt\Documents\GitHub\MethodsExercise\MethodsExercise-2\obj\Debug\net6.0\ref\MethodsExercise-2.dll
